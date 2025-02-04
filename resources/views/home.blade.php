@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landing Page</title>
+    <title>LKBB Nautica 2025</title>
     @vite('resources/css/app.css')
     <style>
         /* Background animation */
@@ -111,6 +111,8 @@
         <h1 class="text-4xl font-bold mt-4 bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 text-transparent bg-clip-text">LKBB NAUTICA 2025</h1>
         <p class="text-indigo-200 mt-2">Paskibra SMK Negeri 1 Purwosari Proudly Present</p>
     </div>
+
+
 
     <!-- Cards Section -->
     <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6 w-full max-w-2xl z-10">
