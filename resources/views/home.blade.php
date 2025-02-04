@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LKBB Nautica 2025</title>
+    <title>LKBB Nautica 2025 - Paskibra</title>
     @vite('resources/css/app.css')
     <style>
         /* Background animation */
