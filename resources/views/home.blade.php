@@ -126,7 +126,7 @@
         </a>
 
         <!-- Pendaftaran SMP/Mts -->
-        <a href="https://wa.me/62xxxxxxxxxx" class="card p-6 rounded-xl">
+        <a href="https://wa.me/6285707407338" class="card p-6 rounded-xl">
             <div class="flex items-center space-x-3">
                 <span class="text-2xl">🚀</span>
                 <h3 class="text-xl font-semibold text-purple-300">Pendaftaran SMP/Mts</h3>
@@ -135,7 +135,7 @@
         </a>
 
         <!-- Pendaftaran SMA/SMK/MA -->
-        <a href="https://wa.me/62xxxxxxxxxx" class="card p-6 rounded-xl">
+        <a href="https://wa.me/62881026486854" class="card p-6 rounded-xl">
             <div class="flex items-center space-x-3">
                 <span class="text-2xl">🌎</span>
                 <h3 class="text-xl font-semibold text-blue-300">Pendaftaran SMA/SMK/MA</h3>
@@ -144,7 +144,7 @@
         </a>
 
         <!-- Sponsorship dan Tenant -->
-        <a href="https://wa.me/62xxxxxxxxxx" class="card p-6 rounded-xl">
+        <a href="https://wa.me/6282334056003" class="card p-6 rounded-xl">
             <div class="flex items-center space-x-3">
                 <span class="text-2xl">✨</span>
                 <h3 class="text-xl font-semibold text-pink-300">Sponsorship & Tenant</h3>
